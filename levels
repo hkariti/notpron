@@ -1,7 +1,7 @@
 - { url: "http://www.notpron.org/notpron/levelone.htm" }
 - { url: "http://www.notpron.org/notpron/not/level2.htm" }
 - { url: "http://www.notpron.org/notpron/not/level3.htm" }
-- { url: "http://www.deathball.net/notpron/true/gototheothersite.htm" }
+- { url: "http://www.deathball.net/notpron/true/movetotheothersite.htm" }
 - { url: "http://www.deathball.net/notpron/google/shestheoneforme.php", user: voodoo, pass: magic }
 - { url: "http://www.deathball.net/notpron/nothing/hesgotitall.php", user: simple, pass: songs }
 - { url: "http://www.deathball.net/notpron/sdrawkcab/tieman.htm", user: kill, pass: hour }
