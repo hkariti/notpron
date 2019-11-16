@@ -15,3 +15,7 @@
 - { url: "http://deathball.net/notpron/rusty/board.htm", user: deja, pass: vu }
 - { url: "http://deathball.net/notpron/zoo/mznvh.htm", user: random, pass: access }
 - { url: "http://deathball.net/notpron/finale/pron.htm", user: doom, pass: murder }
+- { url: "http://deathball.net/notpron/finale/lamp.htm" }
+- { url: "http://deathball.net/notpron/finale/deaf.htm" }
+- { url: "http://deathball.net/notpron/windows/something.php", user: unusual, pass: stuff }
+- { url: "http://deathball.net/notpron/twentyone/again.htm", user: really, pass: unfair }
